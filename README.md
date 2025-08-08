@@ -20,7 +20,7 @@
 
 **ZARA** is the first zero-shot motion time-series analysis LLM agent that combines **domain knowledge**, **multi-sensor retrieval-augmented generation**, and **multi-agent reasoning** to classify motion sensor data for human activity recognation, achieving 2.53× F1 over baselines without fine-tuning or task-specific classifiers.
 <div style="text-align: center;">
-    <img src="asset/ZARA.pdf" alt="zara" width=100% >
+    <img src="asset/ZARA.png" alt="zara" width=100% >
 </div>
 
 ### 🔑 Key Features
