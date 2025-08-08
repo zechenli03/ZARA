@@ -2,13 +2,13 @@
 <h1 align="center"><strong> Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents</strong></h1>
   <p align="center">
     <a href='https://scholar.google.com/citations?user=EVOzBF4AAAAJ&hl=en' target='_blank'>Zechen Li</a>&emsp;&emsp;
-    <a href='https://scholar.google.com/citations?user=250tnREAAAAJ&hl=en' target='_blank'>Baiyu Chen</a>&emsp;&emsp;
+    <a href='https://scholar.google.com/citations?user=haLBEWwAAAAJ&hl=en' target='_blank'>Baiyu Chen</a>&emsp;&emsp;
     <a href='https://scholar.google.com/citations?user=KwhLl7IAAAAJ&hl' target='_blank'>Hao Xue</a>&emsp;&emsp;
     <a href='https://fsalim.github.io' target='_blank'>Flora D. Salim</a>
     <br><br>
      University of New South Wales, Sydney<br/>
     <br><br>
-    <a href="https://arxiv.org/abs/2410.10624">
+    <a href="https://arxiv.org/abs/2508.04038">
         <img src="https://img.shields.io/badge/arXiv-2503.07259-b31b1b.svg" alt="arXiv">
     </a>
   </p>
