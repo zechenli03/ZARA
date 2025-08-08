@@ -1,5 +1,7 @@
 <h1 align="center"><strong> ZARA</strong></h1>
-<h1 align="center"><strong> Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents</strong></h1>
+<h1 align="center"><strong> 
+  Z̲ero-shot Motion Time-Series A̲nalysis via Knowledge and R̲etrieval Driven LLM A̲gents
+</strong></h1>
   <p align="center">
     <a href='https://scholar.google.com/citations?user=EVOzBF4AAAAJ&hl=en' target='_blank'>Zechen Li</a>&emsp;&emsp;
     <a href='https://scholar.google.com/citations?user=haLBEWwAAAAJ&hl=en' target='_blank'>Baiyu Chen</a>&emsp;&emsp;
