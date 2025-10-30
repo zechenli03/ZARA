@@ -37,14 +37,11 @@
 If you find this repository useful for your research, please cite our paper:
 
 ```
-@misc{li2025zarazeroshotmotiontimeseries,
+@article{li2025zarazeroshotmotiontimeseries,
       title={ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents}, 
       author={Zechen Li and Baiyu Chen and Hao Xue and Flora D. Salim},
-      year={2025},
-      eprint={2508.04038},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.04038}, 
+      journal={arXiv preprint arXiv:2508.04038},
+      year={2025}
 }
 ```
 
